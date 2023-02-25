@@ -297,7 +297,7 @@
 
 .footer__columns_content_copyright {
   flex-basis: 711px;
-  display: flex;  
+  display: flex;
   position: relative;
   flex-direction: column;
   justify-content: space-between;
