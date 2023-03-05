@@ -239,6 +239,8 @@
   background-color: #1f1f1f;
   overflow: hidden;
   z-index: 0;
+  padding-bottom: 90px;
+  margin-bottom: 0;
 }
 
 .kaufman__triangle {
@@ -253,7 +255,6 @@
 
 .section-title_theme_dark {
   margin-top: 90px;
-  margin-bottom: 90px;
   color: white;
   margin-bottom: 20px;
 }
@@ -263,12 +264,18 @@
   color: white;
 }
 
+.table_theme_dark {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 .table__cell_theme_dark {
   align-items: stretch;
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  margin-bottom: 0;
 }
 
 .table__heading_theme_dark {
