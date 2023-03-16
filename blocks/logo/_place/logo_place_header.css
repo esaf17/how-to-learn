@@ -1,7 +1,5 @@
 .logo_place_header {
-    display: flex;
-    position: absolute;
-    left: 64px;
-    top: 30px;
-    order: 1;
-  }
+  position: absolute;
+  left: 64px;
+  top: 30px;
+}

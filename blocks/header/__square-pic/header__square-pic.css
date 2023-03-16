@@ -1,14 +1,9 @@
 .header__square-pic {
-    display: flex;
-    position: absolute;
-    top: 64px;
-    background-color: #2f80ed;
-    right: 0;
-    height: 568px;
-    width: 568px;
-    -webkit-animation: rotation 20s linear infinite;
-    -moz-animation: rotation 20s linear infinite;
-    -ms-animation: rotation 20s linear infinite;
-    animation: rotation 20s linear infinite;
-  }
-
+  display: flex;
+  position: absolute;
+  top: 64px;
+  background-color: #2f80ed;
+  right: 0;
+  height: 568px;
+  width: 568px;
+}
